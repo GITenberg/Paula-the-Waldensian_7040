@@ -1,0 +1,22 @@
+_repo: Paula-the-Waldensian_7040
+creator:
+  author:
+    agent_name: Lecomte, Eva
+    gutenberg_agent_id: '2320'
+    url: http://www.gutenberg.org/2009/agents/2320
+description: When a deeply religious orphan girl goes to live with her cousins family,
+  she gradually infects them all with her love for Jesus.
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7040'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Christian life -- Fiction'
+title: Paula the Waldensian
+url: http://www.gutenberg.org/ebooks/7040
